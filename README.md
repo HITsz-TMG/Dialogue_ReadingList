@@ -1,8 +1,8 @@
 # Dialogue_ReadingList
-* [Knowledge Selection(KS)](#Knowledge)
-* [Knowledge-aware Response Generation & Response Selection](#Knowledge-aware)
-* [Overcoming Data Scarcity](#overcoming)
-* [Self-supervised Learning](#Self-supervised)
+* [Knowledge Selection(KS)](#knowledge-selectionks)
+* [Knowledge-aware Response Generation & Response Selection](#knowledge-aware-response-generation--response-selection)
+* [Overcoming Data Scarcity](#overcoming-data-scarcity)
+* [Self-supervised Learning](#self-supervised-learning)
 
 ## Knowledge Selection(KS)
 
