@@ -16,7 +16,7 @@
 
     *Byeongchang Kim, Jaewoo Ahn, and Gunhee Kim*
 
-3. **Differenceaware Knowledge Selection for Knowledge-grounded Conversation Generation.** EMNLP
+3. **Difference-aware Knowledge Selection for Knowledge-grounded Conversation Generation.** EMNLP
 
     *Chujie Zheng, Yunbo Cao, Daxin Jiang, and Minlie Huang*
 
