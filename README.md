@@ -32,6 +32,14 @@
 
     *Xueliang Zhao, Wei Wu, Can Xu, Chongyang Tao, Dongyan Zhao, and Rui Yan*
 
+6. **Refnet: A reference-aware network for background based conversation.** AAAI
+
+    *Chuan Meng, Pengjie Ren, Zhumin Chen, Christof Monz, Jun Ma, and Maarten de Rijke*
+
+7. **Thinking globally, acting locally: Distantly supervised global-to-local knowledge selection for background based conversation.** AAAI
+
+    *Pengjie Ren, Zhumin Chen, Christof Monz, Jun Ma, and Maarten de Rijke*
+
 ### 2019
 1. **Learning to Select Knowledge for Response Generation in Dialog Systems.** IJCAI
 
@@ -41,10 +49,14 @@
 
     *Emily Dinan, Stephen Roller, Kurt Shuster, Angela Fan, Michael Auli, Jason Weston*
 
+3. **Improving background based conversation with context-aware knowledge pre-selection** SCAI
+
+    *Yangjun Zhang, Pengjie Ren, and Maarten de Rijke*
+
 ## Knowledge-aware Response Generation & Response Selection
 
 ### 2020
-1. **Learning to Detect Relevant Contexts and Knowledge for Response Selection in Retrievalbased Dialogue Systems.** CIKM
+1. **Learning to Detect Relevant Contexts and Knowledge for Response Selection in Retrieval-based Dialogue Systems.** CIKM
 
     *Kai Hua, Zhiyuan Feng, Chongyang Tao, Rui Yan, and Lu Zhang*
 
