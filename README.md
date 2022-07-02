@@ -3,6 +3,7 @@
 * [Knowledge-aware Response Generation & Response Selection](#knowledge-aware-response-generation--response-selection)
 * [Overcoming Data Scarcity](#overcoming-data-scarcity)
 * [Self-supervised Learning](#self-supervised-learning)
+* [Retrieval-based Generation](#retrieval-based-generation)
 
 ## Knowledge Selection(KS)
 
@@ -111,3 +112,7 @@
 
     *Yizhe Zhang, Siqi Sun, Xiang Gao, Yuwei Fang, Chris Brockett, Michel Galley, Jianfeng Gao, and Bill Dolan*
 
+### 2020
+1. **Retrieval-augmented generation for knowledge-intensive nlp tasks.** NeurIPS
+
+    *Patrick Lewis, Ethan Perez, Aleksandra Piktus, Fabio Petroni, Vladimir Karpukhin, Naman Goyal, Heinrich Küttler, Mike Lewis, Wen-tau Yih, Tim Rocktäschel*
