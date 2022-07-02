@@ -55,6 +55,12 @@
 
 ## Knowledge-aware Response Generation & Response Selection
 
+### 2021
+1. **A controllable model of grounded response generation.** AAAI
+
+    *Zeqiu Wu, Michel Galley, Chris Brockett, Yizhe Zhang, Xiang Gao, Chris Quirk, Rik Koncel-Kedziorski, Jianfeng Gao, Hannaneh Hajishirzi, Mari Ostendorf, et al.*
+
+
 ### 2020
 1. **Learning to Detect Relevant Contexts and Knowledge for Response Selection in Retrieval-based Dialogue Systems.** CIKM
 
@@ -63,6 +69,12 @@
 2. **Knowledge-Grounded Dialogue Generation with Pre-trained Language Models.** EMNLP
 
     *Xueliang Zhao, Wei Wu, Can Xu, Chongyang Tao, Dongyan Zhao, and Rui Yan*
+
+### 2019
+1. **Incremental transformer with deliberation decoder for document grounded conversations.** ACL
+
+    *Zekang Li, Cheng Niu, Fandong Meng, Yang Feng, Qian Li, and Jie Zhou*
+
 
 
 ## Overcoming Data Scarcity
@@ -90,3 +102,12 @@
 1. **Consistent Dialogue Generation with Self-supervised Feature Learning.** arxiv
 
     *Yizhe Zhang, Xiang Gao, Sungjin Lee, Chris Brockett, Michel Galley, Jianfeng Gao, Bill Dolan*
+
+
+## Retrieval-based Generation
+
+### 2021
+1. **Joint retrieval and generation training for grounded text generation.** arxiv
+
+    *Yizhe Zhang, Siqi Sun, Xiang Gao, Yuwei Fang, Chris Brockett, Michel Galley, Jianfeng Gao, and Bill Dolan*
+
