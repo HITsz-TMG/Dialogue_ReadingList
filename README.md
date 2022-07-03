@@ -4,6 +4,7 @@
 * [Overcoming Data Scarcity](#overcoming-data-scarcity)
 * [Self-supervised Learning](#self-supervised-learning)
 * [Retrieval-based Generation](#retrieval-based-generation)
+* [Inconsistency](#inconsistency)
 
 ## Knowledge Selection(KS)
 
@@ -71,6 +72,11 @@
 
     *Xueliang Zhao, Wei Wu, Can Xu, Chongyang Tao, Dongyan Zhao, and Rui Yan*
 
+3. **History-Adaption Knowledge Incorporation Mechanism for Multi-Turn Dialogue System.** AAAI
+
+    *Yajing Sun, Yue Hu, Luxi Xing, Jing Yu, Yuqiang Xie*
+
+
 ### 2019
 1. **Incremental transformer with deliberation decoder for document grounded conversations.** ACL
 
@@ -116,3 +122,20 @@
 1. **Retrieval-augmented generation for knowledge-intensive nlp tasks.** NeurIPS
 
     *Patrick Lewis, Ethan Perez, Aleksandra Piktus, Fabio Petroni, Vladimir Karpukhin, Naman Goyal, Heinrich Küttler, Mike Lewis, Wen-tau Yih, Tim Rocktäschel*
+
+2. **History-Adaption Knowledge Incorporation Mechanism for Multi-Turn Dialogue System.** AAAI
+
+    *Yajing Sun, Yue Hu, Luxi Xing, Jing Yu, Yuqiang Xie*
+
+
+## Inconsistency
+
+### 2020
+1. **History-Adaption Knowledge Incorporation Mechanism for Multi-Turn Dialogue System.** AAAI
+
+    *Yajing Sun, Yue Hu, Luxi Xing, Jing Yu, Yuqiang Xie*
+
+### 2019
+1. **Consistent Dialogue Generation with Self-supervised Feature Learning.** arxiv
+
+    *Yizhe Zhang, Xiang Gao, Sungjin Lee, Chris Brockett, Michel Galley, Jianfeng Gao, Bill Dolan*
